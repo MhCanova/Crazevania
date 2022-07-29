@@ -44,11 +44,11 @@ TagManager:
   - name: Background
     uniqueID: 1938942347
     locked: 0
-  - name: Platforms
-    uniqueID: 85707773
-    locked: 0
   - name: Fire
     uniqueID: 3824424057
+    locked: 0
+  - name: Platforms
+    uniqueID: 85707773
     locked: 0
   - name: Player
     uniqueID: 3421248909
