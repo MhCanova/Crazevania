@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 2071783256}
   - component: {fileID: 7875077405037549560}
   - component: {fileID: 5693053170255777797}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CrazeMan
   m_TagString: Untagged
   m_Icon: {fileID: 0}
